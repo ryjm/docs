@@ -1,14 +1,14 @@
 :-  :~  navhome/'/docs/'
         navuptwo/'true'
         next/'true'
-        sort/'5'
+        sort/'2'
         title/'Messaging'
     ==
 ;>
 
 # Messaging (Talk and Hall)
 
-Talk is the built-in frontend for the Urbit messaging and notifications
+Talk is the built-in frontend for the Arvo messaging and notifications
 protocol, Hall. Today we use Hall to chat and coordinate, but it's really
 a general purpose piece of infrastructure.
 

@@ -1,13 +1,12 @@
 :-  :~  navhome/'/docs/'
         navuptwo/'true'
         next/'true'
-        sort/'7'
-        title/'Introduction to the Filesystem'
+        sort/'4'
+        title/'Filesystem'
     ==
 ;>
 
-# Introduction to the Filesystem
-
+# Filesystem
 
 Urbit has its own revision-controlled filesystem, Clay. Clay is a typed, global,
 referentially transparent namespace. An easy way to think about it is like typed

@@ -1,0 +1,25 @@
+:-  :~  navhome/'/docs/'
+        sort/'2'
+        title/'Layer 2: Data-Structure Manipulation'
+    ==
+;>
+
+# Layer 2: Data-Structure Manipulation
+
+- [2a: Unit Logic](2a)
+- [2b: List Logic](2b)
+- [2c: Bit Arithmetic](2c)
+- [2d: Bit Logic](2d)
+- [2e: Insecure Hashing](2e)
+- [2f: Noun Ordering](2f)
+- [2g: Unsigned Powers](2g)
+- [2h: Set Logic](2h)
+- [2i: Map Logic](2i)
+- [2j: Jar and Jug Logic](2j)
+- [2k: Queue Logic](2k)
+- [2l: Container from Container](2l)
+- [2m: Container from Noun](2m)
+- [2n: Functional Hacks](2n)
+- [2o: Normalizing Container](2o)
+- [2p: Serialization](2p)
+- [2q: Molds and Mold-Builders](2q)

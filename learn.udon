@@ -1,5 +1,5 @@
 :-  :~  navhome/'/docs/'
-        sort/'3'
+        sort/'4'
         title/'Learn'
     ==
 ;>
@@ -8,10 +8,18 @@
 
 Tutorials and explanations of all the components of Urbit.
 
-## [Arvo](/docs/learn/arvo)
+## [Arvo](arvo)
 
-In-depth documentation on Arvo internals, Hoon, Nock, and Vere, as well as a Hoon tutorial.
+In-depth documentation on the intenrals of Arvo, the Urbit operating system.
 
-## [Azimuth](/docs/learn/azimuth)
+## [Hoon](hoon)
 
-Azimuth documentation is in progress, but you can find descriptions of of the Urbit HD Wallet and an explanation of why Urbit needs a blockchain.
+Hoon is a high-level, statically typed, functional programming language, custom-designed for use with Urbit. For a functional language it has a surprisingly imperative style, and mastering it doesn't require knowing any advanced mathematics.
+
+## [Nock](nock)
+
+Nock is the low-level functional programming language that is interpreted by Vere. You don't need to know Nock to write Hoon, or even to work on most parts of Vere.  But if you want to understand the foundations of Urbit and are mathematically inclined, dive right in.
+
+## [Vere](Vere)
+
+The Nock runtime system, written in C. Keep reading if you're planning to work on the Urbit interpreter, you're a language implementation geek, or you don't really understand anything until you've seen the actual structs.

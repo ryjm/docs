@@ -1,0 +1,15 @@
+:-  :~  navhome/'/docs/'
+        sort/'3'
+        title/'Layer 3: Floating Point and Hashing'
+    ==
+;>
+
+# Layer 3: Floating Point and Hashing
+
+- [3a: Modular and Signed Ints](3a)
+- [3b: Floating Point](3b)
+- [3c: Urbit Time](3c)
+- [3d: SHA Hash Family](3d)
+- [3e: AES Encryption (removed)](3e)
+- [3f: Scrambling](3f)
+- [3g: Molds and Mold-Builders](3g)

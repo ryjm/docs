@@ -5,4 +5,10 @@
 
 # Standard library
 
-Documentation for the standard library.
+Documentation for the Hoon standard library is divided into layers. Lower layers contain more basic operations, and higher layers contain more advanced functions that are written with lower-layer functions.
+
+- [Layer 1: Basic Operations](layer1)
+- [Layer 2: Data-Structure Manipulation](layer2)
+- [Layer 3: Hashing](layer3)
+- [Layer 4: Parsing and Printing](layer4)
+- [Layer 5: Compiler](layer5)

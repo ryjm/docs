@@ -1,0 +1,23 @@
+:-  :~  navhome/'/docs/'
+        sort/'4'
+        title/'Layer 4: Printing and Parsing'
+    ==
+;>
+
+# Layer 4: Printing and Parsing
+
+- [4a: Exotic Bases](4a)
+- [4b: Text Processing](4b)
+- [4c: Tank Printer](4c)
+- [4d: Parsing (Tracing)](4d)
+- [4e: Parsing (Combinators)](4e)
+- [4f: Parsing (Rule-Builders)](4f)
+- [4g: Parsing (Outside Caller)](4g)
+- [4h: Parsing (ASCII Glyphs)](4h)
+- [4i: Parsing (Useful Idioms)](4i)
+- [4j: Parsing (Bases and Base Digits)](4j)
+- [4k: Atom Printing](4k)
+- [4l: Atom Parsing](4l)
+- [4m: Formatting Functions](4m)
+- [4n: Virtualization](4n)
+- [4o: Molds and Mold-Builders](4o)

@@ -18,7 +18,6 @@ Tests whether the tree address `a` is in the head or the tail of a noun.
 Produces the constant atom `%2` if it is within the head (subtree `+2`), or
 the constant atom `%3` if it is within the tail (subtree `+3`).
 
-
 #### Accepts
 
 `a` is an atom.
